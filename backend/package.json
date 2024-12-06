@@ -12,6 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@affinda/affinda": "^7.4.0",
     "express": "^4.21.2",
     "pg": "^8.13.1"
   },
